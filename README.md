@@ -60,7 +60,7 @@ A modern job application tracking web app built to help students manage their in
 - Responsive, dark-themed UI built for daily use
 
 **Tech used:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui  
-🔗 Repository: https://github.com/YOUR_USERNAME/apply-flow
+🔗 Repository: https://github.com/AbdulNafay22/apply-flow
 
 > More projects coming soon.
 
