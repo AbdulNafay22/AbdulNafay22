@@ -86,7 +86,7 @@ A Python-based log analysis tool that scans system logs to detect suspicious act
 - Built with scalability and automation in mind
 
 **Tech used:** Python, CLI tooling, file I/O, data parsing  
-🔗 Repository: https://github.com/AbdulNafay22/autolog
+🔗 Repository: https://github.com/AbdulNafay22/auto-log
 
 > More projects coming soon.
 
