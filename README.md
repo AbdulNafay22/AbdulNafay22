@@ -1,55 +1,33 @@
 # Hey, I’m Abdul Nafay 👋
 
-I’m a Computer Science student at Toronto Metropolitan University who enjoys building things, breaking them, debugging them, and building them again (hopefully better).
+I’m a Computer Science student at Toronto Metropolitan University who enjoys building systems, breaking them, debugging them, and rebuilding them better.
 
-I like working on practical projects that actually solve problems and help me understand how systems work under the hood — not just how to make things look good.
-
----
-
-## 🎓 About Me
-
-- 🎓 Computer Science student at Toronto Metropolitan University (TMU)
-- 📱 Completed an app development workshop (Flutter & Dart)
-- 💻 Interested in app development, full-stack systems, and backend fundamentals
-- 🧠 Enjoy problem-solving, debugging, and learning through hands-on projects
-- 🚀 Actively looking for internship and co-op opportunities
-
----
-
-## 🛠 Skills & Tools
-
-### Languages
-- C  
-- C++  
-- Python  
-- Bash  
-- JavaScript / TypeScript  
-
-### Web & App Development
-- React  
-- Vite  
-- Tailwind CSS  
-- shadcn/ui  
-- Flutter & Dart  
-
-### Systems & Tools
-- Linux  
-- Git & GitHub  
-- Backend & API fundamentals  
-- CLI-based tooling and scripting  
-
----
-
-## 🧩 What I Enjoy
-
-- Solving problems on LeetCode and similar platforms  
-- Debugging code until it finally works — and understanding *why* it didn’t before  
-- Turning ideas into real, usable applications  
-- Learning new technologies by building projects instead of just reading docs  
+I focus on **practical, hands-on projects** that help me understand how software works under the hood — from backend APIs to full-stack applications — not just how to make things look good.
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🔹 InsightForge
+An AI-powered study assistant that runs entirely **locally**, transforming raw academic text into structured learning material.
+
+**What it does:**
+- Generates concise summaries from study text
+- Extracts key points automatically
+- Estimates topic difficulty (Easy / Medium / Hard)
+- Creates revision questions for exam preparation
+- Runs locally using Ollama — no cloud APIs, no data leakage
+
+**Under the hood:**
+- FastAPI backend with structured JSON responses
+- Local LLM integration via Ollama (LLaMA 3.2)
+- React + Vite frontend for real-time interaction
+- Robust prompt design and response validation
+
+**Tech used:** Python, FastAPI, Ollama, React, Vite  
+🔗 Repository: https://github.com/AbdulNafay22/insightforge
+
+---
 
 ### 🔹 Apply Flow
 A modern job application tracking web app designed to help students manage internship and co-op applications efficiently.
@@ -61,9 +39,9 @@ A modern job application tracking web app designed to help students manage inter
 - Responsive, dark-themed UI built for daily use
 
 **Under the hood:**
-- Structured frontend architecture
-- State-driven UI logic
-- Designed to integrate with backend services (data persistence, APIs)
+- State-driven UI architecture
+- Structured component design
+- Built to integrate with backend services
 
 **Tech used:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui  
 🔗 Repository: https://github.com/AbdulNafay22/apply-flow
@@ -76,19 +54,48 @@ A Python-based log analysis tool that scans system logs to detect suspicious act
 **What it does:**
 - Parses authentication and system logs
 - Detects repeated failed login attempts within configurable time windows
-- Flags potentially malicious IP addresses
-- Generates readable JSON or CSV reports
+- Flags potentially suspicious IP addresses
+- Exports results as JSON or CSV reports
 
 **Under the hood:**
-- Modular log parsing and analysis pipeline
+- Modular parsing and analysis pipeline
 - Time-window correlation logic
-- CLI-driven workflow designed for extensibility
-- Built with scalability and automation in mind
+- CLI-based workflow designed for extensibility
 
-**Tech used:** Python, CLI tooling, file I/O, data parsing  
+**Tech used:** Python, CLI tooling, file I/O  
 🔗 Repository: https://github.com/AbdulNafay22/auto-log
 
-> More projects coming soon.
+---
+
+## 🎓 About Me
+
+- 🎓 Computer Science student at Toronto Metropolitan University (TMU)
+- 💻 Interested in backend systems, full-stack development, and software fundamentals
+- 🧠 Strong interest in debugging, problem-solving, and system-level understanding
+- 🚀 Actively seeking internship and co-op opportunities
+
+---
+
+## 🛠 Skills & Tools
+
+### Languages
+- C, C++
+- Python
+- JavaScript / TypeScript
+- Bash
+
+### Web & App Development
+- React
+- Vite
+- Tailwind CSS
+- shadcn/ui
+- Flutter & Dart
+
+### Systems & Tools
+- Linux
+- Git & GitHub
+- Backend & API design
+- CLI-based tooling and scripting
 
 ---
 
@@ -99,4 +106,4 @@ A Python-based log analysis tool that scans system logs to detect suspicious act
 
 ---
 
-Thanks for stopping by — feel free to explore my projects and follow along as I keep building.
+Thanks for stopping by — feel free to explore my projects as I continue building and learning.
